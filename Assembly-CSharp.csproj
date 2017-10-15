@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ConstructingAFractal\Scripts\Fractal.cs" />
      <Compile Include="Assets\CreatingAClock\Scripts\Clock.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity5.6.2f1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
